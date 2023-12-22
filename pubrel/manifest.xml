@@ -3,11 +3,11 @@
   <RomName>ExtremeROM</RomName>
   <VersionName>v1</VersionName>
   <BuildNumber type="integer">20231101</BuildNumber>
-  <DownloadURL>https://github.com/ExtremeROM/ExtremeROM_OnUpdate/raw/fourteen/pubrel/sample.zip</DownloadURL>
+  <DownloadURL>http://chleb.me/for_extreme/ExtremeROM_OneUI_6_S20_v1.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
-  <CheckMD5>f5762c9cf00e5660a0534d10e50eb36a</CheckMD5>
-  <FileSize type="long">124</FileSize>
+  <CheckMD5>06e37ed06faa4b08b9cbcb3c65857818</CheckMD5>
+  <FileSize type="long">4472040</FileSize>
   <WebsiteURL>https://google.com/</WebsiteURL>
   <ChangelogHeader>https://i.ibb.co/92RxppQ/changelogheader1100.png</ChangelogHeader>
   <ChangelogURL>https://raw.githubusercontent.com/ExtremeROM/ExtremeROM_OnUpdate/fourteen/pubtest/changelog.txt</ChangelogURL>
