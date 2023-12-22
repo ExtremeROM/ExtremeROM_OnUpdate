@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>ExtremeROM</RomName>
-  <VersionName>v2</VersionName>
+  <VersionName>v1</VersionName>
   <BuildNumber type="integer">20231201</BuildNumber>
   <DownloadURL>https://google.com/</DownloadURL>
   <AndroidVer>14</AndroidVer>
