@@ -2,7 +2,7 @@
 <OnOTAInfo>
   <RomName>ExtremeROM</RomName>
   <VersionName>v2</VersionName>
-  <BuildNumber type="integer">v2</BuildNumber>
+  <BuildNumber type="integer">20231201</BuildNumber>
   <DownloadURL>https://google.com/</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
