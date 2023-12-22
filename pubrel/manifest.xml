@@ -3,7 +3,7 @@
   <RomName>ExtremeROM</RomName>
   <VersionName>v1</VersionName>
   <BuildNumber type="integer">20231101</BuildNumber>
-  <DownloadURL>https://google.com/</DownloadURL>
+  <DownloadURL>https://github.com/ExtremeROM/ExtremeROM_OnUpdate/raw/fourteen/pubrel/sample.zip</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.0</OneUIVer>
   <CheckMD5>6a99c575ab87f8c7d1ed1e52e7e349ce</CheckMD5>
