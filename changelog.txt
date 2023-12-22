@@ -1,0 +1,7 @@
+Welcome to the ExtremeROM changelog
+
+Changelog from v1 > v2:
+• Phone might blow up hehe
+
+On Update v1.0.0:
+• Initial release
